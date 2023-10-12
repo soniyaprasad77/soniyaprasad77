@@ -1,18 +1,30 @@
 <h1 align="center">Hi 👋, I'm Soniya Prasad</h1>
-<h3 align="center">A final year student deeply dedicated to refining her expertise in full-stack web development and DevOps.</h3>
+<h3 align="center">A final-year student deeply dedicated to refining her expertise in full-stack web development and DevOps.</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/hMAhEUs3fwEbC/giphy.gif" alt="Naruto Pain GIF" width="300" height="200" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soniyaprasad77&label=Profile%20views&color=0e75b6&style=flat" alt="soniyaprasad77" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+<p align="center">
+  🌱 I’m currently learning <strong>Full Stack Web Development</strong>
+</p>
 
-- 👨‍💻 All of my projects are available at [https://soniyaprasad77.github.io/](https://soniyaprasad77.github.io/)
+<p align="center">
+  👨‍💻 All of my projects are available at <a href="https://soniyaprasad77.github.io/">https://soniyaprasad77.github.io/</a>
+</p>
 
-- 📝 I regularly write articles on [https://soniyaprasad.hashnode.dev/](https://soniyaprasad.hashnode.dev/)
+<p align="center">
+  📝 I regularly write articles on <a href="https://soniyaprasad.hashnode.dev/">https://soniyaprasad.hashnode.dev/</a>
+</p>
 
-- 📫 How to reach me **soniyaprasad73688@gmail.com**
+<p align="center">
+  📫 How to reach me <strong>soniyaprasad73688@gmail.com</strong>
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=soniyaprasad77&label=Profile%20views&color=0e75b6&style=flat" alt="soniyaprasad77" width="50" /> </p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/@prasad_soniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@prasad_soniya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/soniya-prasad-a8769b1a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soniya-prasad-a8769b1a8" height="30" width="40" /></a>
 <a href="https://instagram.com/_soni___ya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_soni___ya" height="30" width="40" /></a>
@@ -37,12 +49,14 @@
     <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soniyaprasad77&background=0D1117&ring=007BFF&fire=007BFF&currStreakNum=007BFF&sideNums=007BFF&dates=007BFF" alt="soniyaprasad77" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soniyaprasad77&show_icons=true&locale=en&layout=compact" alt="soniyaprasad77" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniyaprasad77&layout=compact&bg_color=45,0D1117,007BFF&title_color=ffffff&text_color=ffffff&langs_count=6" alt="Top Languages" style="width: 300px; height: 200px;">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=soniyaprasad77&show_icons=true&locale=en&bg_color=45,0D1117,007BFF" alt="soniyaprasad77" style="width: 330px; height: 200px;" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soniyaprasad77&show_icons=true&locale=en" alt="soniyaprasad77" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soniyaprasad77&" alt="soniyaprasad77" /></p>
 
 
 
