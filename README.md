@@ -21,7 +21,7 @@
   📫 How to reach me <strong>soniyaprasad73688@gmail.com</strong>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=soniyaprasad77&label=Profile%20views&color=0e75b6&style=flat" alt="soniyaprasad77" width="50" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=soniyaprasad77&label=Profile%20views&color=0e75b6&style=flat" alt="soniyaprasad77" width="300" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
