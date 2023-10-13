@@ -3,8 +3,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hMAhEUs3fwEbC/giphy.gif" alt="Naruto Pain GIF" width="300" height="200" />
 </p>
-[An image of @soniyaprasad77's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soniyaprasad77)](https://holopin.io/@soniyaprasad77)
-
 <p align="center">
   🌱 I’m currently learning <strong>Full Stack Web Development</strong>
 </p>
