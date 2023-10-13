@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Soniya Prasad</h1>
-<h3 align="center">A final-year student deeply dedicated to refining her expertise in full-stack web development and DevOps.</h3>
+<h3 align="center">A final-year student deeply dedicated to refining her expertise in full-stack web development and DevOps </h3>
 <p align="center">
   <img src="https://media.giphy.com/media/hMAhEUs3fwEbC/giphy.gif" alt="Naruto Pain GIF" width="300" height="200" />
 </p>
-
+[An image of @soniyaprasad77's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soniyaprasad77)](https://holopin.io/@soniyaprasad77)
 
 <p align="center">
   🌱 I’m currently learning <strong>Full Stack Web Development</strong>
