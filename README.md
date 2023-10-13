@@ -47,7 +47,14 @@
     <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soniyaprasad77&background=0D1117&ring=007BFF&fire=007BFF&currStreakNum=007BFF&sideNums=007BFF&dates=007BFF" alt="soniyaprasad77" /></p>
+<h2 align="center">My contribution Streak !! :fire:</h2> 
+
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=soniyaprasad77&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniyaprasad77&layout=compact&bg_color=45,0D1117,007BFF&title_color=ffffff&text_color=ffffff&langs_count=6" alt="Top Languages" style="width: 300px; height: 200px;">
