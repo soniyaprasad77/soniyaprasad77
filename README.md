@@ -25,7 +25,6 @@
 <p align="center">
 <a href="https://twitter.com/@prasad_soniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@prasad_soniya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/soniya-prasad-a8769b1a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soniya-prasad-a8769b1a8" height="30" width="40" /></a>
-<a href="https://instagram.com/_soni___ya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_soni___ya" height="30" width="40" /></a>
 <a href="https://hashnode.com/@soniyaprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@soniyaprasad" height="30" width="40" /></a>
 </p>
 <h2 align="center"> 🔭 Technology Stacks</h2>
