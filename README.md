@@ -58,7 +58,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniyaprasad77&layout=compact&bg_color=45,0D1117,007BFF&title_color=ffffff&text_color=ffffff&langs_count=6" alt="Top Languages" style="width: 300px; height: 200px;">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=soniyaprasad77&show_icons=true&locale=en&bg_color=45,0D1117,007BFF" alt="soniyaprasad77" style="width: 330px; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soniyaprasad77&show_icons=true&locale=en&bg_color=45,0D1117,007BFF&title_color=ffffff&text_color=ffffff" alt="soniyaprasad77" style="width: 330px; height: 200px;" />
 </p>
 
 <h1 align="center">All About Hacktoberfest 2023 </h1>
