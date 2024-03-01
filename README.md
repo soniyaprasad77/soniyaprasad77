@@ -45,6 +45,7 @@
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
     <img alt="Tailwind" src="https://img.shields.io/badge/tailwind-%233ad6bc.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+    <img alt="Postman" src="https://img.shields.io/badge/postman-%23ED8B00.svg?&style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 <h2 align="center">My contribution Streak !! :fire:</h2> 
