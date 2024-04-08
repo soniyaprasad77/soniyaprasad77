@@ -64,7 +64,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=soniyaprasad77&show_icons=true&locale=en&bg_color=45,0D1117,007BFF&title_color=ffffff&text_color=ffffff" alt="soniyaprasad77" style="width: 330px; height: 200px;" />
 </p>
-<h2 align="center">Tublian's Steetcred </h2>
+<h2 align="center">Tublian's Streetcred </h2>
 <p align="center">
   
   <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/soniyaprasad77?type=with_score">
