@@ -7,6 +7,7 @@
   🌱 I’m currently learning <strong>Full Stack Web Development</strong>
 </p>
 
+
 <p align="center">
   👨‍💻 All of my projects are available at <a href="https://soniyaprasad77.github.io/">https://soniyaprasad77.github.io/</a>
 </p>
@@ -63,7 +64,11 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=soniyaprasad77&show_icons=true&locale=en&bg_color=45,0D1117,007BFF&title_color=ffffff&text_color=ffffff" alt="soniyaprasad77" style="width: 330px; height: 200px;" />
 </p>
-
+<h2 align="center">Tublian's Steetcred </h2>
+<p align="center">
+  
+  <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/soniyaprasad77?type=with_score">
+</p>
 <h1 align="center">All About Hacktoberfest 2023 </h1>
 
 [![An image of @soniyaprasad77's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soniyaprasad77)](https://holopin.io/@soniyaprasad77)
