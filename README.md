@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soniya Prasad</h1>
 <h3 align="center">A final-year student deeply dedicated to refining her expertise in full-stack web development and DevOps </h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/hMAhEUs3fwEbC/giphy.gif" alt="Naruto Pain GIF" width="300" height="200" />
+<img src="https://media1.tenor.com/m/vQLfR3WZPQEAAAAd/attack-on-titan-eren.gif" alt="Attack on Titan Eren GIF"/>
 </p>
 <p align="center">
   🌱 I’m currently learning <strong>Full Stack Web Development</strong>
