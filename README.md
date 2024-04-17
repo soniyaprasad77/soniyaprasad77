@@ -10,11 +10,11 @@
 </p>
 
 <p>
-  📝 I regularly write articles on <a href="https://soniyaprasad.hashnode.dev/">My Blogs</a>
+  📝 I regularly write articles on <a href="https://soniyaprasad.hashnode.dev/">on hashnode</a>
 </p>
 
 <p>
-  📫 How to reach me <strong>soniyaprasad73688@gmail.com</strong>
+  📫 How to reach me soniyaprasad73688@gmail.com
 </p>
 
 <p> <img src="https://komarev.com/ghpvc/?username=soniyaprasad77&label=Visitors%20&color=0e75b6&style=flat" width="150" /> </p>
