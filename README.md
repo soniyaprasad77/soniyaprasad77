@@ -1,7 +1,8 @@
 <h1>Hi 👋, I'm Soniya Prasad</h1>
-<h4>As a final year B.tech student majoring in Computer Science and Engineering, I am deeply passionate about problem-solving and proficient in full-stack web development and DevOps. My expertise in frontend development includes JavaScript, TypeScript, and React.js, while my backend skills encompass Node.js, Express.js, and databases like MongoDB, MySQL and PostgreSQL.</h4>
+<p>As a final year B.tech student majoring in Computer Science and Engineering, I am deeply passionate about problem-solving and proficient in full-stack web development and DevOps. 
+  My expertise in frontend development includes JavaScript, TypeScript, and React.js, while my backend skills encompass Node.js, Express.js, and databases like MongoDB, MySQL and PostgreSQL.</p>
 <p>
-  🌱 I’m currently learning <strong>Full Stack Web Development</strong>
+  🌱 I’m currently learning Full Stack Web Dev and DevOps
 </p>
 
 <p>
