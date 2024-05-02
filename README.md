@@ -30,27 +30,25 @@
 
 
 
-<h2>My Github Stats !!</h2> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soniyaprasad77&show_icons=true&locale=en&layout=compact" alt="soniyaprasad77" /></p>
+## My GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soniyaprasad77&show_icons=true&locale=en" alt="soniyaprasad77" /></p>
-<h2>My contribution Streak !! :fire:</h2> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soniyaprasad77&" alt="soniyaprasad77" /></p>
+|  Top Languages         | Github Overview                                         | Contribution Streak
+|-------------------------|----------------------------------------------|-----------------------------------------|
+| [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=soniyaprasad77&show_icons=true&locale=en&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=soniyaprasad77&show_icons=true&locale=en&layout=compact)        | ![GitHub Overview](https://github-readme-stats.vercel.app/api?username=soniyaprasad77&show_icons=true&locale=en) | ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=soniyaprasad77&) |
 
-</p>
-<h2>Tublian's Streetcred </h2>
+## Contributing Back to the Community
 
-<p>
+I'm passionate about contributing to the community, regularly providing valuable insights on Stack Overflow and actively engaging on Tublian.
+| Stackoverflow                 | Tublian Streetcred                                         |
+|-------------------------|----------------------------------------------|
+| [![Stack Overflow Profile](https://github-readme-stackoverflow.vercel.app/?userID=17251755)](https://github-readme-stackoverflow.vercel.app/?userID=17251755)        |  <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/soniyaprasad77?type=with_score"> |
 
-<p>
-  
-  <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/soniyaprasad77?type=with_score">
-</p>
-<h1 >All About Hacktoberfest 2023 </h1>
+
+ ## All About Hacktoberfest 2023
 
 [![An image of @soniyaprasad77's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soniyaprasad77)](https://holopin.io/@soniyaprasad77)
 
 
-<h3 align="left">Support:</h3>
+## Support
 <p><a href="https://www.buymeacoffee.com/soniyaprasad77"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/soniyaprasad77" /></a></p><br><br>
 
