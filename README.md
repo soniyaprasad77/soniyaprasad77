@@ -41,7 +41,7 @@
 I'm passionate about contributing to the community, regularly providing valuable insights on Stack Overflow and actively engaging on Tublian.
 | Stackoverflow                 | Tublian Streetcred                                         |
 |-------------------------|----------------------------------------------|
-| [![Stack Overflow Profile](https://github-readme-stackoverflow.vercel.app/?userID=17251755)](https://github-readme-stackoverflow.vercel.app/?userID=17251755)        |  <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/soniyaprasad77?type=with_score"> |
+| [![Stack Overflow Profile](https://github-readme-stackoverflow.vercel.app/?userID=17251755)](https://github-readme-stackoverflow.vercel.app/?userID=17251755)        |  [![Tublian StreetCred](https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/soniyaprasad77?type=with_score)](https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/soniyaprasad77?type=with_score) |
 
 
  ## All About Hacktoberfest 2023
