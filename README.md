@@ -5,12 +5,14 @@
   🌱 I’m currently learning Full Stack Web Dev and DevOps
 </p>
 
-<p>
-  👨‍💻 All of my projects are available at <a href="https://zealous-glacier-0a48a7d00.5.azurestaticapps.net//">My Portfolio</a>
+<p align="left">
+  <span style="font-size: 1.5em; margin-right: 10px;">👨‍💻</span>
+  All of my projects are available at <a href="https://zealous-glacier-0a48a7d00.5.azurestaticapps.net/">My Portfolio</a>
 </p>
 
-<p>
-  📝 I regularly write articles on <a href="https://soniyaprasad.hashnode.dev/">on hashnode</a>
+<p align="left">
+  <span style="font-size: 1.5em; margin-right: 10px;">📝</span>
+  I regularly write articles <a href="https://soniyaprasad.hashnode.dev/">on Hashnode</a>
 </p>
 
 <p>
