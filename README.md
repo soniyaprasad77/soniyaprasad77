@@ -44,9 +44,10 @@
 ## Contributing Back to the Community
 
 I'm passionate about contributing to the community, regularly providing valuable insights on Stack Overflow and actively engaging on Tublian.
-| Stackoverflow                 | Tublian Streetcred                                         |
-|-------------------------|----------------------------------------------|
-| [![Stack Overflow Profile](https://github-readme-stackoverflow.vercel.app/?userID=17251755)](https://github-readme-stackoverflow.vercel.app/?userID=17251755)        |  [![Tublian StreetCred](https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/soniyaprasad77?type=with_score)](https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/soniyaprasad77?type=with_score) |
+| Stackoverflow                 | Tublian Streetcred                                         | Daily Dev
+|-------------------------|----------------------------------------------|----------------------------|
+| [![Stack Overflow Profile](https://github-readme-stackoverflow.vercel.app/?userID=17251755)](https://github-readme-stackoverflow.vercel.app/?userID=17251755)        |  [![Tublian StreetCred](https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/soniyaprasad77?type=with_score)](https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/soniyaprasad77?type=with_score) | <a href="https://app.daily.dev/soniyaprasad"><img src="https://api.daily.dev/devcards/v2/T3fBVD4T3ZuIMRzkstQCF.png?type=default&r=ooq" width="210" alt="Soniya Prasad's Dev Card"/></a>
+
 
 
 
