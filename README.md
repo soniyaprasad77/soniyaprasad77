@@ -1,23 +1,5 @@
-<h1>Hi 👋, I'm Soniya Prasad</h1>
-<p>As a final year B.tech student majoring in Computer Science and Engineering, I am deeply passionate about problem-solving and proficient in full-stack web development and DevOps. 
-  My expertise in frontend development includes JavaScript, TypeScript, and React.js, while my backend skills encompass Node.js, Express.js, and databases like MongoDB, MySQL and PostgreSQL.</p>
-<p>
-  🌱 I’m currently learning Full Stack Web Dev and DevOps
-</p>
 
-<p align="left">
-  <span style="font-size: 1.5em; margin-right: 10px;">👨‍💻</span>
-  All of my projects are available at <a href="https://zealous-glacier-0a48a7d00.5.azurestaticapps.net/">My Portfolio</a>
-</p>
 
-<p align="left">
-  <span style="font-size: 1.5em; margin-right: 10px;">📝</span>
-  I regularly write articles <a href="https://soniyaprasad.hashnode.dev/">on Hashnode</a>
-</p>
-
-<p>
-  📫 How to reach me soniyaprasad73688@gmail.com
-</p>
 
 <p> <img src="https://komarev.com/ghpvc/?username=soniyaprasad77&label=Visitors%20&color=0e75b6&style=flat" width="150" /> </p>
 
