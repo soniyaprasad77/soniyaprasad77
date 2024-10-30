@@ -10,8 +10,8 @@
 
 ## Coding Profiles 
 <a href="https://leetcode.com/u/soniyaprasad77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/soniyaprasad77/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17251755/soniya-prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17251755/soniya-prasad" height="30" width="40" /></a>
-<p> <img src="https://komarev.com/ghpvc/?username=soniyaprasad77&label=Visitors%20&color=0e75b6&style=flat" width="150" /> </p>
+<a href="https://stackoverflow.com/users/17251755/soniya-prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17251755/soniya-prasad" height="30" width="40" /></a>
+
 
 
 
